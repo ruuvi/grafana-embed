@@ -33,16 +33,6 @@
           "title": "",
           "transparent": true,
           "type": "text"
-        },
-        {
-          "content": "<img src=\"http://www.slush.org/wp-content/themes/slush/assets/img/slush_logo_white.png\" width=\"100%\"></img>",
-          "id": 2,
-          "links": [],
-          "mode": "html",
-          "span": 6,
-          "title": "",
-          "transparent": true,
-          "type": "text"
         }
       ],
       "repeat": null,
