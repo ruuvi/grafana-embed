@@ -8,6 +8,8 @@
 * Provision a server. We prefer to use Digital Ocean for our VPSes, if you want to support us please use this [referral link](https://m.do.co/c/97709646a3b5) to get some free credits for your server as well as to give use some referral credits.
 * Install [InfluxDB](https://docs.influxdata.com/influxdb/v1.3/introduction/installation/) and [Grafana](http://docs.grafana.org/installation/debian/).
 
+Please note that the CSS is tested on Grafana 4.6.2, and it _won't_ work with Grafana 5+
+
 ## Setting up Raspberry Pi
 * Install [RuuviCollector](https://github.com/Scrin/RuuviCollector) as per instructions at the repository.
 * Configure the hostname or IP address and InfluxDB user and password in ruuvi-collector.properties
